@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432284236215",
+    "project_id": "shadow-clone-430e5",
+    "storage_bucket": "shadow-clone-430e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432284236215:android:c24ce72b5a13d7564f1032",
+        "android_client_info": {
+          "package_name": "com.test.youtube_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX5dGvmUNXy767-C7gZTEnzfCHoaPxoQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
